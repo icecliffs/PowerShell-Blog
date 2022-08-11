@@ -1,0 +1,13 @@
+
+  - <a onclick="
+      document.body.style.background = &quot;black&quot;;
+      document.body.style.color = &quot;white&quot;;
+  ">Dark</a>  -  <a onclick="
+      document.body.style.background = &quot;white&quot;;
+      document.body.style.color = &quot;black&quot;;" '="">Light</a> -
+  ------------------
+  - <a onclick="
+      document.body.style.fontSize = 17;
+  ">Font+</a> -  <a onclick="
+      document.body.style.fontSize = 13;
+  ">Font-</a> -

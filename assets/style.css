@@ -32,8 +32,11 @@ span {
 }
 
 body {
-    background-color: rgb(36, 36, 36);
+    background: url(https://bfs.iloli.moe/rce_status/background.png);
     margin: 0;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .shell-blue {

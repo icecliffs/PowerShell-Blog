@@ -3,7 +3,7 @@
       document.body.style.background = &quot;black&quot;;
       document.body.style.color = &quot;white&quot;;
   ">Dark</a>  -  <a onclick="
-      document.body.style.background = &quot;white&quot;;
+      document.body.style.background = &quot;rgb(36, 36, 36)&quot;;
       document.body.style.color = &quot;black&quot;;" '="">Light</a> -
   ------------------
   - <a onclick="

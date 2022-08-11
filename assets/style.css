@@ -13,6 +13,10 @@
     background-color: rgba(139, 56, 56, 0.74);
 }
 
+pre {
+    margin-left: 25px;
+}
+
 a {
     color: rgba(223, 223, 223, 0.712);
     /* text-decoration: none; */
@@ -23,7 +27,6 @@ a:hover:not(.active) {
 }
 
 span {
-    display: flex;
     font-size: 15px;
     font-family: Monospace;
 }
